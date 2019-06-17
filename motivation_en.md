@@ -25,7 +25,11 @@ Using interfaces and bind some implementations. Solves tight binding issue.
 ## Microservices (doker, ansible)
 Splitting app to multiple independent smaller components
 
+## RestFull services (stripe, shopify, sendgrid, ect)
+Don't implement the wheel. Reusing most common functionaliy via REST/HTTP/JSON API
+
 # Rasing abscraction 
 Every new abstraction adds extra difficulty to write program but the profit is more valuable therefore we have to accept it.
 
 # What should come next?
+What about writing appilcation by combining language independent components a la microservises with public interface binding using platform as DI framework? 
