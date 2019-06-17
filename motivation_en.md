@@ -33,3 +33,5 @@ Every new abstraction adds extra difficulty to write program but the profit is m
 
 # What should come next?
 What about writing appilcation by combining language independent components a la microservises with public interface binding using platform as DI framework? 
+
+More about  [language independent components](https://github.com/language-independent-components/docs)
